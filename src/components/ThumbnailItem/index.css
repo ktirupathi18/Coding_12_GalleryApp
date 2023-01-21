@@ -1,0 +1,12 @@
+/* Write your code here. */
+.item {
+  margin: 2%;
+  height: 80px;
+  width: 80px;
+  opacity: 0.5;
+  border: none;
+  background-color: #ffffff;
+}
+.division {
+  opacity: 1;
+}
